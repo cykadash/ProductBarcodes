@@ -12,3 +12,5 @@ To begin, hit the `+` button. From there a menu will come up prompting the user 
 <img src="https://i3.lensdump.com/i/gh5JpH.jpg" width="194.4" height="437.4"> <img src="https://i2.lensdump.com/i/gh5C1x.jpg" width="194.4" height="437.4">
 <img src="https://i.lensdump.com/i/gh5QF1.jpg" width="194.4" height="437.4"> <img src="https://i1.lensdump.com/i/gh5kxk.jpg" width="194.4" height="437.4">
 
+# Authors Note
+This is my first app so any feedback is greatly appreciated. I'm planning to add a couple features, for example, automatically adding the different versions of games based off the SKU (there seems to only be a change of one number in the string). Another feature I'd like to implement is importing/exporting databases such that if someone has a more complete list of products than someone else, they can share their data in order to prevent redundancy.
