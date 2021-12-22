@@ -9,6 +9,6 @@ To begin, hit the `+` button. From there a menu will come up prompting the user 
 
 # Screenshots
 
-<img src="https://i3.lensdump.com/i/gh5JpH.jpg" width="216" height="468"> <img src="https://i2.lensdump.com/i/gh5C1x.jpg" width="216" height="468">
+<img src="https://i3.lensdump.com/i/gh5JpH.jpg" width="216" height="468"> <img src="https://i2.lensdump.com/i/gh5C1x.jpg" width="216" height="468"> \
 <img src="https://i.lensdump.com/i/gh5QF1.jpg" width="216" height="468"> <img src="https://i1.lensdump.com/i/gh5kxk.jpg" width="216" height="468">
 
