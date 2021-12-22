@@ -1,5 +1,5 @@
 # ProductBarcodes
-This is an app to help with products that are missing a barcode on the item, to allow them to easily be scanned. When the app is initially installed, there are no products in the database, but the more the user adds, the more they can use. This app was designed with best buy stores in mind, although it should still work with any other retail store.
+This is an app to help with products that are missing a barcode on the item, to allow them to easily be scanned. When the app is initially installed, there are no products in the database, but the more the user adds, the more they can use. This app was designed with Best Buy stores in mind, although it should still work with any other retail store.
 
 # Code Info
 This app was written in java, using android studio. The database uses `SQLite` and the barcode generator uses the `zxing` library.
